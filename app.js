@@ -4,4 +4,4 @@ function reverseString(str) {
 
 // examples
 console.log(reverseString("hello")); 
-console.log(reverseString("A man a plan a canal")); 
+console.log(reverseString("A man a plan a canal")); ;
